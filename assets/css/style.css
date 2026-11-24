@@ -67,6 +67,17 @@ p:last-child {
   padding-right: var(--gutter);
 }
 
+.site-footer {
+  padding-block: 12px;
+  text-align: center;
+}
+
+.site-footer hr {
+  border: 0;
+  border-top: 1px solid #bcbcbc;
+  margin: 0 0 12px;
+}
+
 .skip-link {
   position: absolute;
   left: -9999px;
